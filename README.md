@@ -2,8 +2,6 @@
 
 ## Project Benson
 
-![](Benson.jpg)
-
 ### Back Story
 
 An email from a potential client:
